@@ -1,0 +1,9 @@
+function Vault() {
+    return (
+        <div>
+            <h2>Vault</h2>
+        </div>
+    );
+}
+
+export default Vault;
